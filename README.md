@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Yazılım Mühendisliği Yolcusuyum<br>👯 Yapay zeka sistemleri üzerine projeler geliştirebileceğim takım arkadaşları arıyorum.<br>🤝 Kariyer ile alakalı görüşlere ve kod analizlerine açığım.<br>🌱 Şuanda görüntü ile alakalı yapay zeka sistemlerinde kendimi geliştiriyorum.
+🔭Yazılım Mühendisliği Yolcusuyum<br>👯 Yapay zeka sistemleri üzerine projeler geliştirebileceğim takım arkadaşları arıyorum.<br>🤝 Kariyer ile alakalı görüşlere ve kod analizlerine açığım.<br>🌱 Şuanda bilgisayarlı görü dalında kendimi geliştiriyorum.
 
 
 ## 🌐 Socials:
